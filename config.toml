@@ -1,0 +1,8 @@
+model = "gpt-5.5"
+model_reasoning_effort = "medium"
+
+[plugins."github@openai-curated"]
+enabled = true
+
+[windows]
+sandbox = "unelevated"
