@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐧 Unity 클라이언트 개발자를 목표로 성장 중인 대학생 </h2>  
     Unity와 C#을 중심으로 2D 게임 개발을 공부하고 있으며, 직접 구현하며 구조를 개선하는 방식으로 성장하고 있습니다.<br>
-    <strong>📒 일기장</strong> 👉 <a href=https://velog.io/@byeo1ha> <img src="https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"> </a> <br>
+    <strong>📒 일기장</strong> 👉 <a href=https://velog.io/@byeo1ha> <img src="https://velog.io/@byeo1ha/series/Unity-Stack"> </a> <br>
     <strong>📚 프로젝트</strong>  👉 <a href="https://github.com/Byeo1ha?tab=repositories"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"> </a> <br>
     </div>
     <div style="text-align: left;"> 
