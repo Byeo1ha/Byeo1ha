@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://byeo1ha.github.io/">
-  <img src="https://raw.githubusercontent.com/Byeo1ha/Byeo1ha.github.io/main/Image/readme-banner.svg" alt="Lee Junho portfolio banner" width="100%">
+  <img src="./readme-banner.svg" alt="Lee Junho portfolio banner" width="100%">
 </a>
 
 <br>
