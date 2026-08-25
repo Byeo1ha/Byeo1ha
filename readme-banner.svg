@@ -1,0 +1,28 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="360" fill="#0D0E0F"/>
+  <g opacity="0.2">
+    <path d="M0 60H1280M0 120H1280M0 180H1280M0 240H1280M0 300H1280" stroke="#F4F4F0"/>
+    <path d="M80 0V360M160 0V360M240 0V360M320 0V360M400 0V360M480 0V360M560 0V360M640 0V360M720 0V360M800 0V360M880 0V360M960 0V360M1040 0V360M1120 0V360M1200 0V360" stroke="#F4F4F0"/>
+  </g>
+  <g opacity="0.52">
+    <rect x="560" y="66" width="560" height="210" fill="#08090A" stroke="#303336"/>
+    <rect x="560" y="66" width="560" height="34" fill="#111315" stroke="#303336"/>
+    <rect x="580" y="80" width="8" height="8" stroke="#A3A7A8"/>
+    <rect x="598" y="80" width="8" height="8" stroke="#A3A7A8"/>
+    <rect x="616" y="80" width="8" height="8" stroke="#A3A7A8"/>
+    <text x="642" y="89" fill="#A3A7A8" font-family="Consolas, monospace" font-size="13">PlayerCombat.cs</text>
+    <path d="M612 124H1084M612 148H1084M612 172H1084M612 196H1084M612 220H1084M612 244H1084" stroke="#303336"/>
+    <path d="M612 100V276" stroke="#303336"/>
+    <text x="638" y="134" fill="#D6D8D4" font-family="Consolas, monospace" font-size="14">using UnityEngine;</text>
+    <text x="638" y="158" fill="#D6D8D4" font-family="Consolas, monospace" font-size="14">public sealed class PlayerCombat : MonoBehaviour</text>
+    <text x="638" y="182" fill="#D6D8D4" font-family="Consolas, monospace" font-size="14">{</text>
+    <text x="662" y="206" fill="#D6D8D4" font-family="Consolas, monospace" font-size="14">private AttackPool attackPool;</text>
+    <text x="662" y="230" fill="#D6D8D4" font-family="Consolas, monospace" font-size="14">private PlayerState state;</text>
+    <text x="638" y="254" fill="#D6D8D4" font-family="Consolas, monospace" font-size="14">}</text>
+  </g>
+  <text x="92" y="108" fill="#A3A7A8" font-family="Arial, sans-serif" font-size="18">Unity Client Developer</text>
+  <text x="88" y="204" fill="#F4F4F0" font-family="Arial, sans-serif" font-size="88" font-weight="700">LEE JUNHO</text>
+  <text x="94" y="244" fill="#A3A7A8" font-family="Arial, sans-serif" font-size="28">이준호</text>
+  <text x="94" y="292" fill="#7CCFFF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Gameplay / Combat / Systems</text>
+  <rect x="90" y="318" width="178" height="1" fill="#7CCFFF"/>
+</svg>
