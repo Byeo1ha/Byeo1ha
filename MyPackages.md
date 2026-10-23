@@ -18,3 +18,8 @@ https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity
 ```
 https://github.com/hadashiA/VContainer.git?path=VContainer/Assets/VContainer
 ```
+
+### MCP for Unity
+```
+https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity#main
+```
